@@ -1,8 +1,6 @@
+#KEYLOGGER
 
 Keylogger software is a good beginner-level cyber security project. A keylogger is software used to record every keystroke made by the user on their keyboard devices.
-
-
-
 
 
 
@@ -25,5 +23,3 @@ JSON is a lightweight data-interchange format. It is often used for exchanging  
     Continuously update text and JSON log files with captured key events.
 5) Stop Logging:
     Stop capturing key events when the "Stop" button is pressed.  Update the GUI status to indicate the keylogger is stopped!
-
-    ![image](https://github.com/MouryaSagar17/KeyLogger/assets/143429477/abbd518f-08e1-4894-8f5e-a40f83a72788)
